@@ -4,7 +4,6 @@ import (
 	"log"
 	"net/http"
 
-    	"github.com/AnneCoombes/stringsvc"
 	httptransport "github.com/go-kit/kit/transport/http"
 )
 
