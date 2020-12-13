@@ -1,4 +1,4 @@
-module github.com/AnneCoombes/stringsvc.git
+module github.com/AnneCoombes/stringsvc
 
 go 1.15
 
